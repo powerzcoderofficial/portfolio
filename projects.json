@@ -23,8 +23,8 @@
             "title": "Password Generator",
             "description": "A super simple yet powerful password generator which can generate very strong and secure passwords in a click. It has many options to customize your password as much as you can.",
             "technologies": ["HTML", "CSS", "JavaScript", "JSON", "Vercel"],
-            "liveLink": "https://secure-gen.vercel.app",
-            "githubLink": "https://github.com/powerzcoderofficial/Secure-Gen",
+            "liveLink": "https://securekey-gen.vercel.app",
+            "githubLink": "https://github.com/powerzcoderofficial/SecureKey-Gen",
             "image": "assets/2.png"
         }
     ]
