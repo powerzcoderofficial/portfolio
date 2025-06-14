@@ -5,7 +5,7 @@
             "title": "Budgeting Mate",
             "description": "A minimalist Expense tracker app with many currencies and gentle animations for a focused, stress-free experience.",
             "technologies": ["HTML", "CSS", "JavaScript", "JSON", "Vercel"],
-            "liveLink": "https://budgetingmate.vercel.app",
+            "liveLink": "https://budgeting-mate.vercel.app",
             "githubLink": "https://github.com/powerzcoderofficial/BudgetingMate-New",
             "image": "assets/1.png"
         },
