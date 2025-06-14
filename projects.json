@@ -5,9 +5,18 @@
             "title": "Budgeting Mate",
             "description": "A minimalist Expense tracker app with many currencies and gentle animations for a focused, stress-free experience.",
             "technologies": ["HTML", "CSS", "JavaScript", "JSON", "Vercel"],
-            "liveLink": "#",
-            "githubLink": "#",
+            "liveLink": "https://budgetingmate.vercel.app",
+            "githubLink": "https://github.com/powerzcoderofficial/BudgetingMate-New",
             "image": "assets/1.png"
+        },
+        {
+            "id": "sphere-cast",
+            "title": "SphereCast",
+            "description": "A super simple yet powerful tool which can help you check the weather of almost any place in the World with accuracy.",
+            "technologies": ["HTML", "CSS", "JavaScript", "JSON", "Vercel"],
+            "liveLink": "https://spherecast.vercel.app",
+            "githubLink": "https://github.com/powerzcoderofficial/SphereCast",
+            "image": "assets/2.png"
         },
         {
             "id": "password-generator",
