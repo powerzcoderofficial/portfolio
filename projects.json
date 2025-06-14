@@ -17,7 +17,7 @@
             "liveLink": "https://spherecast.vercel.app",
             "githubLink": "https://github.com/powerzcoderofficial/SphereCast",
             "image": "assets/2.png"
-        },
+        }
         {
             "id": "password-generator",
             "title": "Password Generator",
