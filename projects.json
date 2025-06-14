@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "id": "budgeting-mate",
+            "title": "Budgeting Mate",
+            "description": "A minimalist Expense tracker app with many currencies and gentle animations for a focused, stress-free experience.",
+            "technologies": ["HTML", "CSS", "JavaScript", "JSON", "Vercel"],
+            "liveLink": "#",
+            "githubLink": "#",
+            "image": "assets/1.png"
+        },
+        {
+            "id": "password-generator",
+            "title": "Password Generator",
+            "description": "A super simple yet powerful password generator which can generate very strong and secure passwords in a click. It has many options to customize your password as much as you can.",
+            "technologies": ["HTML", "CSS", "JavaScript", "JSON", "Vercel"],
+            "liveLink": "#",
+            "githubLink": "#",
+            "image": "assets/2.png"
+        }
+    ]
+} 
