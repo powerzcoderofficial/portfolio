@@ -5,27 +5,144 @@
             "title": "Budgeting Mate",
             "description": "A minimalist Expense tracker app with many currencies and gentle animations for a focused, stress-free experience.",
             "technologies": ["HTML", "CSS", "JavaScript", "JSON", "Vercel"],
-            "liveLink": "https://budgeting-mate.vercel.app",
+            "liveLink": "https://budgeting-mate.vercel.app/",
             "githubLink": "https://github.com/powerzcoderofficial/BudgetingMate-New",
             "image": "assets/1.png"
         },
         {
             "id": "sphere-cast",
-            "title": "SphereCast",
-            "description": "A super simple yet powerful tool which can help you check the weather of almost any place in the World with accuracy.",
-            "technologies": ["HTML", "CSS", "JavaScript", "JSON", "Vercel"],
+            "title": "Sphere Cast",
+            "description": "A Super Simple Weather App that shows the weather conditions around the world easily. Uses the OpenWeatherAPI.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Vercel"],
             "liveLink": "https://spherecast.vercel.app",
             "githubLink": "https://github.com/powerzcoderofficial/SphereCast",
             "image": "assets/2.png"
         },
         {
-            "id": "password-generator",
-            "title": "Password Generator",
+            "id": "securekey-gen",
+            "title": "SecureKey Gen",
             "description": "A super simple yet powerful password generator which can generate very strong and secure passwords in a click. It has many options to customize your password as much as you can.",
             "technologies": ["HTML", "CSS", "JavaScript", "JSON", "Vercel"],
             "liveLink": "https://securekey-gen.vercel.app",
             "githubLink": "https://github.com/powerzcoderofficial/SecureKey-Gen",
             "image": "assets/3.png"
+        },
+        {
+            "id": "sapphire-notes",
+            "title": "Sapphire Notes",
+            "description": "A sleek and elegant note-taking app designed for clarity and focus. Quickly capture, organize, and revisit your most important ideas.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": "https://sapphire-notes.vercel.app/",
+            "githubLink": "https://github.com/powerzcoderofficial/Sapphire-Notes",
+            "image": "assets/4.png"
+        },
+        {
+            "id": "fluid-type",
+            "title": "Fluid Type",
+            "description": "Test and improve your typing speed and accuracy with this clean typing test application. Track your words-per-minute (WPM) and see your progress over time.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": "https://fluid-type.vercel.app/",
+            "githubLink": "https://github.com/powerzcoderofficial/Fluid-Type",
+            "image": "assets/5.png"
+        },
+        {
+            "id": "encrypt-2000",
+            "title": "Encrypt 2000",
+            "description": "A fast and efficient URL shortener that turns long, unwieldy links into short, shareable ones. Features a clean interface for quick link creation and management.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": "https://encrypt-2000.vercel.app/",
+            "githubLink": "https://github.com/powerzcoderofficial/Encrypt-2000",
+            "image": "assets/6.png"
+        },
+        {
+            "id": "make-a-site",
+            "title": "Make a Site!",
+            "description": "An interactive tool for beginners to build their first landing page. Choose from pre-made components and see your website come to life in real-time.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": "https://make-a-site.vercel.app/",
+            "githubLink": "https://github.com/powerzcoderofficial/Make-A-Site",
+            "image": "assets/7.png"
+        },
+        {
+            "id": "science-at-home",
+            "title": "Science at Home!",
+            "description": "An interactive web platform that simulates key science concepts. Explore physics, chemistry, and biology through engaging, hands-on digital simulations.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": "https://science-at-home.vercel.app/",
+            "githubLink": "https://github.com/powerzcoderofficial/Science-at-Home",
+            "image": "assets/8.png"
+        },
+        {
+            "id": "markdown-rectifier",
+            "title": "Markdown Rectifier",
+            "description": "A live Markdown to HTML converter with a split-screen preview. Write your Markdown on one side and instantly see the correctly formatted HTML output on the other.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": "https://markdown-rectifier.vercel.app/",
+            "githubLink": "https://github.com/powerzcoderofficial/Markdown-Rectifier",
+            "image": "assets/9.png"
+        },
+        {
+            "id": "cpu-on-the-web",
+            "title": "CPU on the Web",
+            "description": "A browser-based emulator that simulates the architecture and instruction set of a basic CPU. A deep-dive project into the fundamentals of computer architecture.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": "https://cpu-on-the-web.vercel.app/",
+            "githubLink": "https://github.com/powerzcoderofficial/CPU-on-the-web",
+            "image": "assets/10.png"
+        },
+        {
+            "id": "hacking-the-web",
+            "title": "Hacking the Web!",
+            "description": "An educational hacking simulator that demonstrates common web vulnerabilities in a safe environment. Learn how attacks work to better protect your own applications.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": "https://hacking-the-web.vercel.app/",
+            "githubLink": "https://github.com/powerzcoderofficial/hacking-the-web",
+            "image": "assets/11.png"
+        },
+        {
+            "id": "pencil-editor",
+            "title": "Pencil Editor",
+            "description": "A lightweight, in-browser code playground for HTML, CSS, and JavaScript. Instantly test your front-end ideas and see the results render live on the page.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": "https://pencil-editor.vercel.app/",
+            "githubLink": "https://github.com/powerzcoderofficial/Pencil-Editor",
+            "image": "assets/12.png"
+        },
+        {
+            "id": "powerz-docs",
+            "title": "Powerz Docs",
+            "description": "A clean, browser-based word processor for creating and formatting documents with ease. Features essential text styling tools for a distraction-free writing experience.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": "https://powerz-docs.vercel.app/",
+            "githubLink": "https://github.com/powerzcoderofficial/Powerz-Docs",
+            "image": "assets/13.png"
+        },
+        {
+            "id": "cracking-algorithms",
+            "title": "Cracking Algorithms",
+            "description": "An interactive algorithm visualizer that brings complex data structures to life. Watch step-by-step animations to build an intuitive understanding of how they work.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": "https://cracking-algorithms.vercel.app/",
+            "githubLink": "https://github.com/powerzcoderofficial/Cracking-Algorithms",
+            "image": "assets/14.png"
+        },
+        {
+            "id": "build-my-resume",
+            "title": "Build My Resume",
+            "description": "A user-friendly resume builder that helps you create a professional document in minutes. Fill out a simple form, choose a template, and instantly download your resume.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": " https://build-my-resume.vercel.app",
+            "githubLink": "https://github.com/powerzcoderofficial/Build-my-Resume",
+            "image": "assets/15.png"
+        },
+        {
+            "id": "journalism-on-the-web",
+            "title": "Journalism on the Web",
+            "description": "A private, secure digital notebook for your daily thoughts, reflections, and ideas. Organize your entries and enjoy a simple, elegant interface designed for personal journaling.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": "https://journalism-on-the-web.vercel.app",
+            "githubLink": "https://github.com/powerzcoderofficial/Journalism-on-the-web",
+            "image": "assets/16.png"
         }
     ]
-} 
+}
