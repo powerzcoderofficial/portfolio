@@ -143,6 +143,15 @@
             "liveLink": "https://journalism-on-the-web.vercel.app",
             "githubLink": "https://github.com/powerzcoderofficial/Journalism-on-the-web",
             "image": "assets/16.png"
+        },
+        {
+            "id": "cred-gen",
+            "title": "Credential Generator",
+            "description": "A fictional credential generator for creating realistic-looking IDs and documents with auto-generated data for creative or demo use only. It’s designed to simulate a digital identity system while avoiding real-world or legal misuse.",
+            "technologies": ["HTML", "CSS", "JS", "Vercel"],
+            "liveLink": "https://credgen.vercel.app",
+            "githubLink": "https://github.com/powerzcoderofficial/Credential-Generator",
+            "image": "assets/17.png"
         }
     ]
 }
